@@ -1,0 +1,1 @@
+Check "Structs.h" and "Overlay.hpp" to fix all current errors.

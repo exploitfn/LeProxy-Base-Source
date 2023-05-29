@@ -1,0 +1,407 @@
+﻿  fnentry.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(80,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(80,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(80,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(135,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(136,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(137,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(139,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(140,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(141,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(143,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(144,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(145,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(146,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(147,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(148,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(150,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(151,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(152,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(153,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(155,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(156,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(157,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(158,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(160,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(161,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(162,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\FN_Utils.h(163,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,1): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,1): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10736,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,1): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10745,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,1): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11057,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14940,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14949,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+D:\Rizz\Rizz sex\Rizz sex\Godfather\PEauth.h(12,33): warning C4129: 'P': unrecognized character escape sequence
+D:\Rizz\Rizz sex\Rizz sex\Godfather\PEauth.h(19,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+D:\Rizz\Rizz sex\Rizz sex\Godfather\PEauth.h(235,45): warning C4244: 'argument': conversion from 'SIZE_T' to 'uint32_t', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,186): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(67,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(67,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(67,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(67,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(72,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(72,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(72,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(72,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,151): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(83,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(83,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(83,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(83,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(84,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(84,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(84,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(84,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(178,19): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(178,27): error C2065: 'localactorpos': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(182,24): error C2653: 'Structs': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(182,48): error C3861: 'W2S': identifier not found
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(185,4): error C3861: 'Softaim': identifier not found
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(236,40): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(236,48): error C2065: 'Uworld': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(238,2): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(238,10): error C2065: 'Uworld': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(239,43): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(239,51): error C2065: 'Uworld': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(241,2): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(241,10): error C2065: 'Localplayer': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(242,2): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(242,10): error C2065: 'PlayerController': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(242,45): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(242,53): error C2065: 'Localplayer': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(243,2): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(243,10): error C2065: 'LocalPawn': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(243,38): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(243,46): error C2065: 'PlayerController': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(244,2): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(244,10): error C2065: 'PlayerState': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(244,40): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(244,48): error C2065: 'LocalPawn': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(245,2): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(245,10): error C2065: 'Rootcomp': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(245,37): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(245,45): error C2065: 'LocalPawn': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(246,2): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(246,10): error C2065: 'relativelocation': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(246,45): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(246,53): error C2065: 'Rootcomp': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(247,2): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(247,10): error C2065: 'Persistentlevel': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(247,44): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(247,52): error C2065: 'Uworld': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(248,33): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(248,41): error C2065: 'Persistentlevel': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(249,38): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(249,46): error C2065: 'Persistentlevel': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(251,20): warning C4018: '<': signed/unsigned mismatch
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(252,37): warning C4305: '=': truncation from 'bool (__cdecl *)(uint64_t)' to 'bool'
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(257,28): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(257,36): error C2065: 'PlayerState': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(261,21): error C2653: 'Structs': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(261,39): error C3861: 'GetBoneWithRotation': identifier not found
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(262,19): error C2653: 'Structs': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(262,37): error C3861: 'GetBoneWithRotation': identifier not found
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(263,20): error C2653: 'Structs': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(263,44): error C3861: 'W2S': identifier not found
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(264,26): error C2653: 'Structs': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(264,50): error C3861: 'W2S': identifier not found
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(266,21): error C2653: 'Structs': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(266,45): error C3861: 'W2S': identifier not found
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(269,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(274,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(275,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(288,23): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(288,31): error C2065: 'LocalPawn': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(290,31): error C2653: 'actors': is not a class or namespace name
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(302,130): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(446,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(447,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(535,10): warning C4778: 'printf' : unterminated format string '%TlY'
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(535,43): warning C4474: 'printf' : too many arguments passed for format string
+D:\Rizz\Rizz sex\Rizz sex\fnentry.cpp(535,43): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\structs.h(131,35): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Rizz\Rizz sex\Rizz sex\FN Utils\structs.h(200,19): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(38,29): error C2374: 'g_hWnd': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(38,29): message : see declaration of 'g_hWnd'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(39,29): error C2374: 'g_Time': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(39,29): message : see declaration of 'g_Time'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(40,29): error C2374: 'g_TicksPerSecond': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(40,29): message : see declaration of 'g_TicksPerSecond'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(41,29): error C2374: 'g_LastMouseCursor': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(41,29): message : see declaration of 'g_LastMouseCursor'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(44,9): error C2084: function 'bool ImGui_ImplWin32_Init(void *)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(44,9): message : see previous definition of 'ImGui_ImplWin32_Init'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(85,9): error C2084: function 'void ImGui_ImplWin32_Shutdown(void)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(85,9): message : see previous definition of 'ImGui_ImplWin32_Shutdown'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(90,13): error C2084: function 'bool ImGui_ImplWin32_UpdateMouseCursor(void)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(90,13): message : see previous definition of 'ImGui_ImplWin32_UpdateMouseCursor'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(122,13): error C2084: function 'void ImGui_ImplWin32_UpdateMousePos(void)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(122,13): message : see previous definition of 'ImGui_ImplWin32_UpdateMousePos'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(142,9): error C2084: function 'void ImGui_ImplWin32_NewFrame(void)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(142,9): message : see previous definition of 'ImGui_ImplWin32_NewFrame'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(165,5): error C2065: 'ImGui_ImplWin32_UpdateMousePos': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(172,9): error C2065: 'ImGui_ImplWin32_UpdateMouseCursor': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(188,24): error C2084: function 'LRESULT ImGui_ImplWin32_WndProcHandler(HWND,UINT,WPARAM,LPARAM)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(188,24): message : see previous definition of 'ImGui_ImplWin32_WndProcHandler'
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(244,43): error C2065: 'ImGui_ImplWin32_UpdateMouseCursor': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(244,78): warning C4551: function call missing argument list
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(244,78): error C2568: '&&': unable to resolve function overload
+D:\Rizz\Rizz sex\Rizz sex\Imgui\imgui_impl_win32.cpp(244,78): message : could be 'bool ImGui_ImplWin32_UpdateMouseCursor(void)'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(20,7): error C2086: 'DWORD ScreenCenterX': redefinition
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(20,7): message : see declaration of 'ScreenCenterX'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(21,7): error C2086: 'DWORD ScreenCenterY': redefinition
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(21,7): message : see declaration of 'ScreenCenterY'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(22,7): error C2086: 'DWORD ScreenCenterZ': redefinition
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(22,7): message : see declaration of 'ScreenCenterZ'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(23,7): error C2374: 'ScreenCenter': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(23,7): message : see declaration of 'ScreenCenter'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(25,9): error C2086: 'ImFont *SkeetFont': redefinition
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(25,9): message : see declaration of 'SkeetFont'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(26,7): error C2086: 'DWORD process_id': redefinition
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(26,7): message : see declaration of 'process_id'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(27,9): error C2086: 'DWORD64 base_address': redefinition
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(27,9): message : see declaration of 'base_address'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(28,6): error C2374: 'hwnd': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(28,6): message : see declaration of 'hwnd'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(30,15): error C2374: 'p_Object': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(30,15): message : see declaration of 'p_Object'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(31,21): error C2374: 'p_Device': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(31,21): message : see declaration of 'p_Device'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(32,23): error C2374: 'p_Params': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(32,23): message : see declaration of 'p_Params'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(33,6): error C2374: 'MyWnd': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(33,6): message : see declaration of 'MyWnd'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(34,6): error C2374: 'GameWnd': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(34,6): message : see declaration of 'GameWnd'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(35,6): error C2374: 'GameRect': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(35,6): message : see declaration of 'GameRect'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(36,5): error C2374: 'Message': redefinition; multiple initialization
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(36,5): message : see declaration of 'Message'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(50,8): error C2084: function 'void Overlay::cheat::DrawCircleFilled(int,int,int,RGBA *)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(50,8): message : see previous definition of 'DrawCircleFilled'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(52,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(55,8): error C2084: function 'void Overlay::cheat::DrawCircle(int,int,int,RGBA *,int,int)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(55,8): message : see previous definition of 'DrawCircle'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,186): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(57,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(60,8): error C2084: function 'void Overlay::cheat::DrawSnapline(int,int,int,int,ImU32,int)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(60,8): message : see previous definition of 'DrawSnapline'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(62,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(65,8): error C2084: function 'void Overlay::cheat::DrawFilledPlayerBox(int,int,int,int,ImU32)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(65,8): message : see previous definition of 'DrawFilledPlayerBox'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(67,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(67,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(67,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(67,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(70,8): error C2084: function 'void Overlay::cheat::DrawRect(int,int,int,int,ImU32)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(70,8): message : see previous definition of 'DrawRect'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(72,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(72,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(72,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(72,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(75,8): error C2084: function 'void Overlay::cheat::DrawRoundedRect(int,int,int,int,ImU32 &,int)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(75,8): message : see previous definition of 'DrawRoundedRect'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(77,151): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(78,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(81,8): error C2084: function 'void Overlay::cheat::FilledRect(int,int,int,int,ImColor)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(81,8): message : see previous definition of 'FilledRect'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(83,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(83,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(83,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(83,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(84,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(84,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(84,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(84,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(87,8): error C2084: function 'void Overlay::cheat::DrawCornerBox(int,int,int,int,int,ImU32)' already has a body
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(87,8): message : see previous definition of 'DrawCornerBox'
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(88,4): error C2065: 'DrawFilledPlayerBox': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(89,4): error C2065: 'DrawFilledPlayerBox': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(90,4): error C2065: 'DrawFilledPlayerBox': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(91,4): error C2065: 'DrawFilledPlayerBox': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(92,4): error C2065: 'DrawFilledPlayerBox': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(93,4): error C2065: 'DrawFilledPlayerBox': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(94,4): error C2065: 'DrawFilledPlayerBox': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(95,4): error C2065: 'DrawFilledPlayerBox': undeclared identifier
+D:\Rizz\Rizz sex\Rizz sex\Overlay\overlay.hpp(95,94): fatal  error C1003: error count exceeds 100; stopping compilation
